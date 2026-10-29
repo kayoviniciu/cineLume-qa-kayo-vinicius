@@ -19,6 +19,7 @@ A diretoria só autoriza o lançamento se a equipe de qualidade confirmar que o 
 
 **Fora do escopo:** integração real com bancos, emissão de nota fiscal, cadastro de usuários e login. O pagamento é simulado: ao confirmar, o sistema aguarda alguns segundos e registra a compra.
 
+
 ## 3. Glossário
 
 | Termo | Significado |
